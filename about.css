@@ -1,0 +1,88 @@
+
+
+.logo{
+   size:200px;
+   color:#F0F0F0;
+
+}
+
+.index_list{
+   size:20px;
+   family-font:"Alternate Gothic";
+   display:flex;
+   align-items:center;
+   justify-content:space-between;
+   font-size:25px;
+}
+
+li{
+   list-style:none;
+   display:inline-block;
+
+}
+
+li a{
+  text-decoration:none;
+  color:#F0F0F0;
+  font-size:18px;
+  font-weight:bold;
+  margin-right:25px;
+}
+
+body{
+   background-image:url(background_restaurant.jpeg);
+   background-repeat:no-repeat;
+   background-position:center;
+   background-atachment:fixed;
+   background-size:cover;
+}
+
+
+
+.foot{
+
+
+  padding:40px;
+  color:#F0F0F0;
+  text-align:center;
+}
+
+.info1{
+   color:#F0F0F0;
+}
+
+.lista{
+   font-size:18px;
+
+
+}
+
+.info{
+  font-size:50px;
+}
+
+.color{
+   color:#F0F0F0;
+}
+
+.about{
+  text-align:center;
+  color:#F0F0F0;
+  height:300px;
+}
+p{
+ font-size:30px;
+ color:rgb(255,255,255, 0.8);
+}
+
+
+
+
+
+footer{
+  padding: 20px 0;
+  text-align: center;
+  background-color: #2C2C2C;
+  font-family: 'Arial', sans-serif;
+  color: white;
+  }
